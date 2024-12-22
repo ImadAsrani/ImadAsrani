@@ -1,7 +1,7 @@
 
-![Hi, I'm Imad Asrani](https://i.ibb.co/Nrnyx9p/as.png)
-
-
+<p align="center">
+  <img height="330" src="https://i.ibb.co/Nrnyx9p/as.png">
+</p>
 
 ## Hey there 👋
 
