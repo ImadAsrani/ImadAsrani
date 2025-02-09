@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img height="330" src="https://i.imghippo.com/files/Lsl9315yX.png">
+  <img height="330" src="https://i.imghippo.com/files/tED7439FLc.png">
 </p>
 
 ## Hey there 👋
